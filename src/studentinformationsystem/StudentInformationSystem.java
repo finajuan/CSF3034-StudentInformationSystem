@@ -10,8 +10,8 @@ public class StudentInformationSystem {
         System.out.println("Student Name: Nur Izzati Hadfina Binti Mohd Ridzuan");
         System.out.println("Student ID: S84787");
         
-        double mark1= 40.0;
-        double mark2= 45.0;
+        double mark1= 37.0;
+        double mark2= 40.0;
         double totalMark= mark1 + mark2;
         System.out.println("Total Mark:" + totalMark);
         
